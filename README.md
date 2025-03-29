@@ -12,68 +12,63 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px">
 </p>
 
----
+<h2 align="center">🖤 About Me</h2>
 
-## 🖤 About Me  
-💻 **B.E. in Computer Science** | REVA University | **Expected 2026**  
-🛠 **Blockchain Developer in Progress...**  
-🚀 **Hyperledger Fabric, Ethereum, Web3, and Smart Contracts**  
-😎 **Debugging Code at 3 AM Like:**
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
+  💻 <strong>B.E. in Computer Science</strong> | REVA University | <strong>Expected 2026</strong> <br>
+  🛠 <strong>Blockchain Developer in Progress...</strong> <br>
+  🚀 <strong>Hyperledger Fabric, Ethereum, Web3, and Smart Contracts</strong> <br>
 </p>
 
----
+<h2 align="center">🚀 Tech Stack</h2>
 
-## 🚀 Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,react,html,css,php,mysql,solidity,git,linux&theme=dark" />
 </p>
 
-🧑‍💻 **Languages:** JavaScript, Python (Intermediate), Solidity  
-🌐 **Web Dev:** React.js (Basics), HTML, CSS, PHP  
-📜 **Blockchain:** Hyperledger Fabric, MetaMask, ERC20 Tokens  
-📂 **Databases:** MySQL  
-🛠 **Tools:** Git, MongoDB Compass, VS Code  
-
----
-
-## 🎯 Featured Projects  
-### 🌑 **BLOCK-DOCK** – Blockchain-Based Urban Grievance Redressal  
-🔹 **Role-based access control** & **immutable blockchain records**  
-🔹 **MetaMask authentication** & **ERC20 fund management**  
-🔹 **Municipality will finally have no excuses to ignore complaints!**  
-
-### ⚡ **METATASK** – Blockchain-Based Task Management  
-🔹 **Decentralized task tracking system**  
-🔹 **Real-time updates with React.js**  
-🔹 **Tasks get completed, or at least they exist forever on the blockchain!**  
-
-### 🎨 **CRAFTIQUE** – Handmade Craft Marketplace (UI Development)  
-🔹 **Minimalistic & modern UI** for an artisan marketplace  
-🔹 **Dark mode optimized, because light mode is illegal!**  
-
----
-
-## 🏆 Certifications & Memberships  
-📌 **IEEE Computer Society Member** _(Feb 2025 – Present)_  
-🎓 **JavaScript, Python Certified** _(Udemy)_  
-🎯 **Hackathon Enthusiast** | Competed in **DigitalGov Hack, PEC Hackathon & Diamante Hackathon**  
-🕵️‍♂️ **Trying to find bugs in my own code before they find me!**  
-
----
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  🧑‍💻 <strong>Languages:</strong> JavaScript, Python (Intermediate), Solidity <br>
+  🌐 <strong>Web Dev:</strong> React.js (Basics), HTML, CSS, PHP <br>
+  📜 <strong>Blockchain:</strong> Hyperledger Fabric, MetaMask, ERC20 Tokens <br>
+  📂 <strong>Databases:</strong> MySQL <br>
+  🛠 <strong>Tools:</strong> Git, MongoDB Compass, VS Code  
 </p>
 
+<h2 align="center">🎯 Featured Projects</h2>
+
+<h3 align="center">🌑 BLOCK-DOCK – Blockchain-Based Urban Grievance Redressal</h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500px">
+  🔹 <strong>Role-based access control</strong> & <strong>immutable blockchain records</strong> <br>
+  🔹 <strong>MetaMask authentication</strong> & <strong>ERC20 fund management</strong> <br>
+  🔹 Municipality will finally have no excuses to ignore complaints!  
 </p>
 
----
+<h3 align="center">⚡ METATASK – Blockchain-Based Task Management</h3>
+
+<p align="center">
+  🔹 <strong>Decentralized task tracking system</strong> <br>
+  🔹 <strong>Real-time updates with React.js</strong> <br>
+  🔹 Tasks get completed, or at least they exist forever on the blockchain!  
+</p>
+
+<h3 align="center">🎨 CRAFTIQUE – Handmade Craft Marketplace (UI Development)</h3>
+
+<p align="center">
+  🔹 <strong>Minimalistic & modern UI</strong> for an artisan marketplace <br>
+  🔹 <strong>Dark mode optimized</strong>, because light mode is illegal!  
+</p>
+
+
+<h2 align="center">🏆 Certifications & Memberships</h2>
+
+<p align="center">
+  📌 <strong>IEEE Computer Society Member</strong> _(Feb 2025 – Present)_ <br>
+  🎓 <strong>JavaScript, Python Certified</strong> _(Udemy)_ <br>
+  🎯 <strong>Hackathon Enthusiast</strong> | Competed in <strong>DigitalGov Hack, PEC Hackathon & Diamante Hackathon</strong> <br>
+</p>
+
+
 
 ## 🌙 Connect with Me  
 <p align="center">
@@ -82,10 +77,8 @@
   <a href="mailto:ashwin2005s@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
-🖤 **"Building things that (hopefully) work while breaking everything else in the process!"**  
-
+<p align="center"><i>"🖤Building things that (hopefully) work while breaking everything else in the process!"</i></p>
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px">
 </p>
