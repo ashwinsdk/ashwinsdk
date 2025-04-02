@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="60px">
   Ashwin Sudhakar
 </h1>
 
