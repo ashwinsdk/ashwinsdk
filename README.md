@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=650&height=60&lines=Blockchain+%7C+Full-Stack+Developer;Solidity+Fabric+%7C+Ethereum+%7C+DApps;Building+Things+I+Don't+Understand+Yet+🚀;Debugging+One+Bug+%3D+Creating+Two+New+Bugs">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=650&height=60&lines=Blockchain+%7C+Full-Stack+Developer;Solidity+%7C+Ethereum+%7C+DApps;Building+Things+I+Don't+Understand+Yet+🚀;Debugging+One+Bug+%3D+Creating+Two+New+Bugs">
 </p>
 
 <p align="center">
