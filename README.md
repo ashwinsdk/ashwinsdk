@@ -15,7 +15,7 @@
 <p align="center">
   💻 <strong>B.E. in Computer Science</strong> | REVA University | <strong>Expected 2026</strong> <br>
   🛠 <strong>Blockchain Developer in Progress...</strong> <br>
-  🚀 <strong>Hyperledger Fabric, Ethereum, Web3, and Smart Contracts</strong> <br>
+  🚀 <strong>Solidity, Ethereum, Web3, and Smart Contracts</strong> <br>
 </p>
 
 <h2 align="center">🚀 Tech Stack</h2>
@@ -27,8 +27,8 @@
 <p align="center">
   🧑‍💻 <strong>Languages:</strong> JavaScript, Python (Intermediate), Solidity <br>
   🌐 <strong>Web Dev:</strong> React.js (Basics), HTML, CSS, PHP <br>
-  📜 <strong>Blockchain:</strong> Hyperledger Fabric, MetaMask, ERC20 Tokens <br>
-  📂 <strong>Databases:</strong> MySQL <br>
+  📜 <strong>Blockchain:</strong> MetaMask, Ethereum <br>
+  📂 <strong>Databases:</strong> MySQL, Mongodb <br>
   🛠 <strong>Tools:</strong> Git, MongoDB Compass, VS Code  
 </p>
 
