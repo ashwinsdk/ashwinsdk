@@ -13,9 +13,9 @@
 <h2 align="center">🖤 About Me</h2>
 
 <p align="center">
-  💻 <strong>B.E. in Computer Science</strong> | REVA University | <strong>Expected 2026</strong> <br>
-  🛠 <strong>Blockchain Developer in Progress...</strong> <br>
-  🚀 <strong>Solidity, Ethereum, Web3, and Smart Contracts</strong> <br>
+  <strong>B.E. in Computer Science</strong> | REVA University | <strong>Expected 2026</strong> <br>
+  <strong>Blockchain Developer in Progress...</strong> <br>
+  <strong>Solidity, Ethereum, Web3, and Smart Contracts</strong> <br>
 </p>
 
 <h2 align="center">🚀 Tech Stack</h2>
@@ -25,50 +25,49 @@
 </p>
 
 <p align="center">
-  🧑‍💻 <strong>Languages:</strong> JavaScript, Python (Intermediate), Solidity <br>
-  🌐 <strong>Web Dev:</strong> React.js (Basics), HTML, CSS, PHP <br>
-  📜 <strong>Blockchain:</strong> MetaMask, Ethereum <br>
-  📂 <strong>Databases:</strong> MySQL, Mongodb <br>
-  🛠 <strong>Tools:</strong> Git, MongoDB Compass, VS Code  
+  <strong>Languages:</strong> JavaScript, Python (Intermediate), Solidity <br>
+  <strong>Web Dev:</strong> React.js (Basics), HTML, CSS, PHP <br>
+  <strong>Blockchain:</strong> MetaMask, Ethereum <br>
+  <strong>Databases:</strong> MySQL, Mongodb <br>
+  <strong>Tools:</strong> Git, MongoDB Compass, VS Code  
 </p>
 
 <h2 align="center">🎯 Featured Projects</h2>
 
-<h3 align="center">🌑 BLOCK-DOCK – Blockchain-Based Urban Grievance Redressal</h3>
+<h3 align="center">BLOCK-DOCK – Blockchain-Based Urban Grievance Redressal</h3>
 
 <p align="center">
-  🔹 <strong>Role-based access control</strong> & <strong>immutable blockchain records</strong> <br>
-  🔹 <strong>MetaMask authentication</strong> & <strong>ERC20 fund management</strong> <br>
-  🔹 Municipality will finally have no excuses to ignore complaints!  
+  Role-based access control & immutable blockchain records <br>
+  MetaMask authentication & ERC20 fund management <br>
+  Municipality will finally have no excuses to ignore complaints!  
 </p>
 
-<h3 align="center">⚡ METATASK – Blockchain-Based Task Management</h3>
+<h3 align="center"> METATASK – Blockchain-Based Task Management</h3>
 
 <p align="center">
-  🔹 <strong>Decentralized task tracking system</strong> <br>
-  🔹 <strong>Real-time updates with React.js</strong> <br>
-  🔹 Tasks get completed, or at least they exist forever on the blockchain!  
+  <strong>Decentralized task tracking system</strong> <br>
+  <strong>Real-time updates with React.js</strong> <br>
+  Tasks get completed, or at least they exist forever on the blockchain!  
 </p>
 
-<h3 align="center">🎨 CRAFTIQUE – Handmade Craft Marketplace (UI Development)</h3>
+<h3 align="center">CRAFTIQUE – Handmade Craft Marketplace (UI Development)</h3>
 
 <p align="center">
-  🔹 <strong>Minimalistic & modern UI</strong> for an artisan marketplace <br>
-  🔹 <strong>Dark mode optimized</strong>, because light mode is illegal!  
+  <strong>Minimalistic & modern UI</strong> for an artisan marketplace <br>
+  <strong>Dark mode optimized</strong>, because light mode is illegal!  
 </p>
 
 
 <h2 align="center">🏆 Certifications & Memberships</h2>
 
 <p align="center">
-  📌 <strong>IEEE Computer Society Member</strong> _(Feb 2025 – Present)_ <br>
-  🎓 <strong>JavaScript, Python Certified</strong> _(Udemy)_ <br>
-  🎯 <strong>Hackathon Enthusiast</strong> | Competed in <strong>DigitalGov Hack, PEC Hackathon & Diamante Hackathon</strong> <br>
+  <strong>IEEE Computer Society Member</strong> _(Feb 2025 – Present)_ <br>
+  <strong>JavaScript, Python Certified</strong> _(Udemy)_ <br>
+  <strong>Hackathon Enthusiast</strong> | Competed in <strong>DigitalGov Hack, PEC Hackathon & Diamante Hackathon</strong> <br>
 </p>
 
 
-
-## 🌙 Connect with Me  
+<h2 align="center">🌙 Connect with Me </h2>
 <p align="center">
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
