@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px">
 </p>
 
-<h2 align="center">🖤 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   <strong>B.E. in Computer Science</strong> | REVA University | <strong>Expected 2026</strong> <br>
