@@ -1,81 +1,23 @@
-<h1 align="center">
-  Ashwin Sudhakar
-</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=650&height=60&lines=Blockchain+%7C+Full-Stack+Developer;Solidity+%7C+Ethereum+%7C+DApps;Building+Things+I+Don't+Understand+Yet+🚀;Debugging+One+Bug+%3D+Creating+Two+New+Bugs">
-</p>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Ashwin%20Sudhakar&fontColor=808080&fontSize=40&fontAlign=50&fontAlignY=40&desc=Software%20Developer%20%7C%20Intern@FriggHome%20&descSize=22&descAlign=50&descAlignY=65&animation=fadeIn&font=monospace" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px">
-</p>
-
-<h2 align="center">About Me</h2>
-
-<p align="center">
-  <strong>B.E. in Computer Science</strong> | REVA University | <strong>Expected 2026</strong> <br>
-  <strong>Blockchain Developer in Progress...</strong> <br>
-  <strong>Solidity, Ethereum, Web3, and Smart Contracts</strong> <br>
-</p>
-
-<h2 align="center">🚀 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,html,css,php,mysql,solidity,git,linux&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Languages:</strong> JavaScript, Python (Intermediate), Solidity <br>
-  <strong>Web Dev:</strong> React.js (Basics), HTML, CSS, PHP <br>
-  <strong>Blockchain:</strong> MetaMask, Ethereum <br>
-  <strong>Databases:</strong> MySQL, Mongodb <br>
-  <strong>Tools:</strong> Git, MongoDB Compass, VS Code  
-</p>
-
-<h2 align="center">🎯 Featured Projects</h2>
-
-<h3 align="center">BLOCK-DOCK – Blockchain-Based Urban Grievance Redressal</h3>
-
-<p align="center">
-  Role-based access control & immutable blockchain records <br>
-  MetaMask authentication & ERC20 fund management <br>
-  Municipality will finally have no excuses to ignore complaints!  
-</p>
-
-<h3 align="center"> METATASK – Blockchain-Based Task Management</h3>
-
-<p align="center">
-  <strong>Decentralized task tracking system</strong> <br>
-  <strong>Real-time updates with React.js</strong> <br>
-  Tasks get completed, or at least they exist forever on the blockchain!  
-</p>
-
-<h3 align="center">CRAFTIQUE – Handmade Craft Marketplace (UI Development)</h3>
-
-<p align="center">
-  <strong>Minimalistic & modern UI</strong> for an artisan marketplace <br>
-  <strong>Dark mode optimized</strong>, because light mode is illegal!  
 </p>
 
 
-<h2 align="center">🏆 Certifications & Memberships</h2>
+<p align="center">
+  <code>B.E. CSE | REVA University | 2026</code>  
+  <br/>
+  <code>Learning Rust. Breathing Solidity. Dreaming Decentralized.</code>
+</p>
 
 <p align="center">
-  <strong>IEEE Computer Society Member</strong> _(Feb 2025 – Present)_ <br>
-  <strong>JavaScript, Python Certified</strong> _(Udemy)_ <br>
-  <strong>Hackathon Enthusiast</strong> | Competed in <strong>DigitalGov Hack, PEC Hackathon & Diamante Hackathon</strong> <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=650&height=60&lines=Blockchain+%7C+Full-Stack+Developer;Solidity+%7C+Ethereum+%7C+DApps;Building+Things+I+Don't+Understand+Yet;Debugging+One+Bug+%3D+Creating+Two+New+Bugs">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,angular,solidity,rust,python,nodejs,postgresql,mysql,git,linux&theme=dark" />
 </p>
 
 
-<h2 align="center">🌙 Connect with Me </h2>
-<p align="center">
-  <a href="https://github.com/ashwinsdk"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ashwinsdk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ashwin2005s@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-
-<p align="center"><i>"🖤Building things that (hopefully) work while breaking everything else in the process!"</i></p>
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px">
-</p>
+<p align="center"><i>"Building the future, one bug at a time, in a universe painted dark."</i></p>
