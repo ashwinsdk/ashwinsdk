@@ -4,8 +4,8 @@ Ashwin Sudhakar
 </p>
 
 <p align="center">
-  <code>B.E. CSE | REVA University | 2026</code>  
-  <br/>
+<!--   <code>B.E. CSE | REVA University | 2026</code>   -->
+<!--   <br/> -->
   <code>Learning Rust. Breathing Solidity. Dreaming Decentralized.</code>
 </p>
 <p align="center">
